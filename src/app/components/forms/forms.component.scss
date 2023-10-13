@@ -60,6 +60,7 @@
 
 .form-group .btn-wrapper{
   display: flex;
+  flex-direction: column;
   gap: 12px;
   align-items: center;
   justify-content: center;
@@ -97,6 +98,13 @@
 .form-group .checkbox-wrapper span{
   position: absolute;
   right: 0;
+}
+
+@media (min-width: 760px) {
+  .form-group .btn-wrapper{
+
+    flex-direction: row;
+  }
 }
 
 
