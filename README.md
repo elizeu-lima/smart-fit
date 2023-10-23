@@ -6,7 +6,7 @@ Este projeto implementa uma página para buscar unidades abertas ou fechadas da 
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- React JS
+- Angular Js
 - SCSS
 - TypeScript
 - HTML
@@ -44,7 +44,7 @@ Neste projeto, foram utilizados os seguintes materiais disponíveis em `_materia
 
 ## Entrega
 
-O código deste projeto pode ser encontrado em [link_para_o_repositorio](link_para_o_repositorio). Além disso, uma demonstração do aplicativo funcionando pode ser acessada em [link_para_o_app](link_para_o_app).
+O código deste projeto pode ser encontrado em [link_para_o_repositorio](https://github.com/elizeu-lima/smart-fit.git). Além disso, uma demonstração do aplicativo funcionando pode ser acessada em [link_para_o_app](https://smart-fit-git-master-elizeu-lima.vercel.app/).
 
 ## Avaliação
 
